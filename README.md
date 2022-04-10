@@ -4,7 +4,7 @@
 This is a First Person Shooter Module/Framework for Roblox.  
 It's meant to ease the setup process.
 
-This framework uses an offset based position applying.  
+This framework uses a "OBB", which stands for Offset Based Blending.  
 It simply means that multiple offsets will contribute on the final processed position  
 
 ## Functions
